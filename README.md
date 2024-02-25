@@ -15,8 +15,10 @@
 
 ## Projects
 Current Project Portfolio
+- [SQL Projects](https://github.com/mfisher003/SQL_food_inventory)
 - [Tableau Portfolio](https://public.tableau.com/app/profile/mfisher/vizzes)
 - [Python Projects](https://github.com/mfisher003/python-class/tree/main)
+
 
 ## Education, Certifications, and Courses
 #### SQL
