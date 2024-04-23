@@ -18,6 +18,7 @@ Current Project Portfolio
 - [SQL Projects](https://github.com/mfisher003/SQL_food_inventory)
 - [Tableau Portfolio](https://public.tableau.com/app/profile/mfisher/vizzes)
 - [Python Projects](https://github.com/mfisher003/python-class/tree/main)
+- [Interactive Dashboard Plotly|Dash](https://github.com/mfisher003/Interactive-Dashboards-with-Plotly-Dash/blob/main/README.md)
 
 
 ## Education, Certifications, and Courses
