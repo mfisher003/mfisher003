@@ -1,4 +1,4 @@
-![enter image description here](https://media.licdn.com/dms/image/D5616AQF1ZIJ5g50Bsw/profile-displaybackgroundimage-shrink_350_1400/0/1707070239207?e=1714003200&v=beta&t=Xd-O4om8xNY9y9rIZZy72dYr8sLE9ON-8HcC6TclmTw)
+
 ## About Me
 - :mega:Recently I have been diving deep into SQL, Tableau, and Python.
 - :crystal_ball:Actively pursuing a role in Business or Data Analytics
