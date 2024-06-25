@@ -3,7 +3,6 @@
 - :crystal_ball:Actively pursuing a role in Business or Data Analytics
 - :mega:Advanced Excel user, proficient in SQL, Tableau, and Python.
 - :triangular_ruler:Small business owner. 
-- :chart_with_upwards_trend:Worked on Wall Street For Bloomberg LP as a Financial Application Specialist
 - :mortar_board:Bachelors in Economics and Masters in Architecture.
 
 ## Languages and Skills
